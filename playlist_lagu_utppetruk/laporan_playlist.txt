@@ -1,0 +1,32 @@
+LAPORAN PLAYLIST: Playlist Klasik
+==================================================
+Jumlah lagu     : 18
+Total durasi    : 1:09:48
+Rata-rata durasi: 3:52
+Terpanjang      : Hey Jude (7:11)
+Terpendek       : We Will Rock You (2:02)
+
+Per artis:
+- Queen: 6 lagu, 24:05
+- The Beatles: 6 lagu, 23:01
+- The Smiths: 6 lagu, 22:42
+
+Daftar lagu (urut tahun):
+ 1. Help! - The Beatles (1965) [2:18] album: Help!
+ 2. Yesterday - The Beatles (1965) [2:05] album: Help!
+ 3. Hey Jude - The Beatles (1968) [7:11] album: Hey Jude
+ 4. Come Together - The Beatles (1969) [4:19] album: Abbey Road
+ 5. Here Comes the Sun - The Beatles (1969) [3:05] album: Abbey Road
+ 6. Let It Be - The Beatles (1970) [4:03] album: Let It Be
+ 7. Bohemian Rhapsody - Queen (1975) [5:54] album: A Night at the Opera
+ 8. Somebody to Love - Queen (1976) [4:57] album: A Day at the Races
+ 9. We Will Rock You - Queen (1977) [2:02] album: News of the World
+10. Don't Stop Me Now - Queen (1978) [3:29] album: Jazz
+11. Another One Bites the Dust - Queen (1980) [3:35] album: The Game
+12. Under Pressure - Queen (1981) [4:08] album: Hot Space
+13. This Charming Man - The Smiths (1983) [2:42] album: Single
+14. Heaven Knows I'm Miserable Now - The Smiths (1984) [3:44] album: Hatful of Hollow
+15. How Soon Is Now? - The Smiths (1984) [6:40] album: Hatful of Hollow
+16. Panic - The Smiths (1986) [2:19] album: Single
+17. Bigmouth Strikes Again - The Smiths (1986) [3:13] album: The Queen Is Dead
+18. There Is a Light That Never Goes Out - The Smiths (1986) [4:04] album: The Queen Is Dead
